@@ -1,0 +1,196 @@
+
+		POPULATION = 50
+		ITERATIONS = 150
+
+		They are fixed.
+		we change only Cross_Rate, Mutation_Rate.
+
+		
+		Ga(new_population, new_Generations, new_Cross_Rate, new_Muta_Rate)
+	 
+
+
+**       Our Ga:: 
+
+         INITILISING
+152.10277777777776
+
+--------------------------------------------------------------------
+
+
+
+
+                             =====CROSS_OVER=====
+
+CROSS OVER:: 0.3
+         INITILISING
+154.86944444444444
+----------------
+CROSS OVER:: 0.4
+         INITILISING
+152.71944444444446
+----------------
+CROSS OVER:: 0.5
+         INITILISING
+151.28888888888886
+----------------
+CROSS OVER:: 0.6
+         INITILISING
+151.79166666666666
+----------------
+CROSS OVER:: 0.7
+         INITILISING
+151.94999999999996
+----------------
+CROSS OVER:: 0.8
+         INITILISING
+150.19166666666663
+----------------
+CROSS OVER:: 0.9
+         INITILISING
+149.1861111111111
+----------------
+CROSS OVER:: 0.97
+         INITILISING
+148.97222222222223
+----------------
+
+                             =====MUTATION=====
+
+MUTATION:: 0.01
+         INITILISING
+151.71388888888885
+----------------
+MUTATION:: 0.02
+         INITILISING
+150.0944444444444
+----------------
+MUTATION:: 0.03
+         INITILISING
+152.44722222222222
+----------------
+MUTATION:: 0.04
+         INITILISING
+151.90833333333333
+----------------
+MUTATION:: 0.05
+         INITILISING
+151.51944444444442
+----------------
+MUTATION:: 0.06
+         INITILISING
+152.7222222222222
+----------------
+MUTATION:: 0.07
+         INITILISING
+151.325
+----------------
+MUTATION:: 0.08
+         INITILISING
+150.2472222222222
+----------------
+MUTATION:: 0.09
+         INITILISING
+151.69444444444446
+----------------
+MUTATION:: 0.1
+         INITILISING
+148.31111111111107
+----------------
+
+
+POPULATION:: 50    ITERATION:: 100
+         INITILISING
+153.74166666666662
+----------------
+POPULATION:: 50    ITERATION:: 200
+         INITILISING
+151.22777777777776
+----------------
+POPULATION:: 50    ITERATION:: 400
+         INITILISING
+149.36111111111111
+----------------
+POPULATION:: 50    ITERATION:: 600
+         INITILISING
+150.97499999999997
+----------------
+POPULATION:: 50    ITERATION:: 800
+         INITILISING
+152.28055555555557
+----------------
+POPULATION:: 50    ITERATION:: 1000
+         INITILISING
+149.08888888888885
+----------------
+POPULATION:: 100    ITERATION:: 100
+         INITILISING
+150.64444444444442
+----------------
+POPULATION:: 100    ITERATION:: 200
+         INITILISING
+148.4861111111111
+----------------
+POPULATION:: 100    ITERATION:: 400
+         INITILISING
+148.83611111111108
+----------------
+POPULATION:: 100    ITERATION:: 600
+         INITILISING
+148.2527777777778
+----------------
+POPULATION:: 100    ITERATION:: 800
+         INITILISING
+149.0444444444444
+----------------
+POPULATION:: 100    ITERATION:: 1000
+         INITILISING
+148.5833333333333
+----------------
+POPULATION:: 150    ITERATION:: 100
+         INITILISING
+147.99999999999997
+----------------
+POPULATION:: 150    ITERATION:: 200
+         INITILISING
+148.19444444444443
+----------------
+POPULATION:: 150    ITERATION:: 400
+         INITILISING
+148.1944444444444
+----------------
+POPULATION:: 150    ITERATION:: 600
+         INITILISING
+148.58333333333331
+----------------
+POPULATION:: 150    ITERATION:: 800
+         INITILISING
+147.99999999999997
+----------------
+POPULATION:: 150    ITERATION:: 1000
+         INITILISING
+148.01944444444447
+----------------
+POPULATION:: 200    ITERATION:: 100
+         INITILISING
+148.1944444444444
+----------------
+POPULATION:: 200    ITERATION:: 200
+         INITILISING
+147.825
+----------------
+POPULATION:: 200    ITERATION:: 400
+         INITILISING
+148.1944444444444
+----------------
+POPULATION:: 200    ITERATION:: 600
+         INITILISING
+147.82500000000002
+----------------
+POPULATION:: 200    ITERATION:: 800
+         INITILISING
+148.01944444444447
+----------------
+POPULATION:: 200    ITERATION:: 1000
+         INITILISING
+147.82500000000002
