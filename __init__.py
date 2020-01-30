@@ -1,4 +1,4 @@
 if __name__ == '__main__':
-	import tools
+    import tools
 
-	print(tools.MaxPossibleTuples(10,3))
+    print(tools.MaxPossibleTuples(10, 3))
