@@ -1,5 +1,5 @@
 from math import factorial
-from benchmarks.time import *
+from .benchmarks.time import *
 
 
 def MaxPossibleTuples(n, k):
