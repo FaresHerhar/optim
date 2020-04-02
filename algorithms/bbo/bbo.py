@@ -1,9 +1,9 @@
 import sys
 #sys.path.append("/media/fares/code/Python")
 
-from algorithms.bbo.init import Init
-from tools import *
-from solution import solution
+from Optim.algorithms.bbo.init import Init
+from Optim.tools import *
+from Optim.solution import solution
 
 import random
 import timeit
@@ -249,8 +249,4 @@ def bboCheck(new_immigration, new_emigration, new_mutation, new_iterations, new_
 
 
 if __name__ == '__main__':
-	for i in range(1,5):
-		print("ITERATION:: ", i)
-		print(bbo(1, 1, 0.1, 1000, 200))
-		#print(bboCheck(1, 1, 0.1, 1000000, 200, 100000))
-		print('\n')
+	print(bbo(1, 1, 0.1, 150, 100))

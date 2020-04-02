@@ -1,8 +1,8 @@
 import random
 import timeit
 
-from tools import *
-
+from Optim.tools import *
+from Optim.benchmarks.time import *
 ###
 # the initial population solutions set
 population = -1
@@ -99,3 +99,7 @@ def normal(new_population):
     result = best[0]
 
     return {'fitness': fit, 'solution': result, 'time': timeit.default_timer() - start}
+
+
+if __name__ == "__main__":
+    print(normal(100))
