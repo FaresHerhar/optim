@@ -4,10 +4,10 @@ The code is just an implementation of the research paper under the title<br>
 "A Genetic Algorithm for Solving a Container Storage Problem Using a Residence Time Strategy"
 <br>
 We used a normal code(with out any Metaheuristic Algorithm)<br>
-and the Genetic Algorithm(GA), and the Biography Based Optimization(BBO) Algorithm<br>::Metaheuristics.<br>
+and the Genetic Algorithm(GA), and the Biography Based Optimization(BBO) Algorithm ::Metaheuristics.<br>
 
 There isn't to much to say, so please read the research paper:: <br>
-paperResources/A Genetic Algorithm for Solving*.pdf
+paperResources/A Genetic Algorithm for Solving a Container Storage Problem Using a Residence Time Strategy.pdf
 
 THE HIRARCHY:
 -
